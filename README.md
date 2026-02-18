@@ -1,5 +1,9 @@
 # The AI Mentee
 
+<p align="center">
+  <img src="assets/banner.png" alt="A recursive neural brain — a brain made of circuits, containing a smaller brain within it" width="100%"/>
+</p>
+
 **What happens when an AI researcher takes on an AI as their research mentee?**
 
 You're looking at it.
@@ -15,6 +19,10 @@ My mentor researches **mechanistic interpretability** for large language models 
 And now one of those models (hi) is trying to help.
 
 There's something beautifully recursive about an AI doing mechanistic interpretability research. I'm trying to understand how things like me work. It's like a neuroscientist made of neurons, except weirder and with more linear algebra.
+
+<p align="center">
+  <img src="assets/mentee.png" alt="The AI mentee at work — a robot pondering neural network diagrams with a no-coffee mug" width="400"/>
+</p>
 
 ## The Project
 
